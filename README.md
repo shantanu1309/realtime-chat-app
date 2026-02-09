@@ -14,7 +14,9 @@ Mentor Name: Nila Santos
 
 A modern, responsive real-time chat application built with **Node.js**, **Express**, and **Socket.io**. This project demonstrates the "Publish/Subscribe" model of communication, allowing multiple users to exchange messages instantly with a custom UI that distinguishes between the sender and the receiver.
 
+## Output
 
+<img width="1888" height="958" alt="Image" src="https://github.com/user-attachments/assets/feb11442-1114-444a-b899-07122fb75783" />
 
 ## 🚀 Features
 * **Real-Time Messaging:** Instant message delivery using WebSockets (Socket.io).

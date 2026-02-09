@@ -1,4 +1,16 @@
-# 💬 WhatsApp-Style Real-Time Chat
+# 💬 Real-Time Chat App
+
+Company Name: CODTECH IT SOLUTIONS
+
+Name: Shinde Shantanu Dasharath
+
+Intern ID:  CTIS3019
+
+Domain Name: Full Stack Web Development
+
+Batch Duration: 4 Weeks
+
+Mentor Name: Nila Santos
 
 A modern, responsive real-time chat application built with **Node.js**, **Express**, and **Socket.io**. This project demonstrates the "Publish/Subscribe" model of communication, allowing multiple users to exchange messages instantly with a custom UI that distinguishes between the sender and the receiver.
 
